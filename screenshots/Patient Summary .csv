@@ -1,0 +1,9 @@
+patient_id,first_name,last_name,diagnosis_name,doctor_name
+1,John,Smith,Hypertension,"Dr Sarah Smith"
+1,John,Smith,"Dental Caries","Dr Sarah Smith"
+2,Emma,Johnson,Migraine,"Dr Ahmed Khan"
+3,Michael,Brown,"Lung Cancer","Dr Michael Jones"
+4,Sophia,Davis,"Dental Caries","Dr Priya Patel"
+1,John,Smith,Hypertension,"Dr Priya Patel"
+1,John,Smith,"Dental Caries","Dr Priya Patel"
+5,Daniel,Wilson,"Heart Disease","Dr David Wilson"

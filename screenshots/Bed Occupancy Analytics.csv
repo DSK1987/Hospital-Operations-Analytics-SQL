@@ -1,0 +1,5 @@
+ward_name,bed_capacity,occupied_beds,occupancy_percentage
+"Cardiology Ward",20,2,10.00
+"Neurology Ward",15,2,13.33
+"Oncology Ward",18,1,5.56
+"General Medicine Ward",30,0,0.00
